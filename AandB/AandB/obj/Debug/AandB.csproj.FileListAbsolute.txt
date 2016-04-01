@@ -1,0 +1,6 @@
+C:\Users\448797\Documents\visual studio 2013\Projects\AandB\AandB\bin\Debug\AandB.exe.config
+C:\Users\448797\Documents\visual studio 2013\Projects\AandB\AandB\bin\Debug\AandB.exe
+C:\Users\448797\Documents\visual studio 2013\Projects\AandB\AandB\bin\Debug\AandB.pdb
+C:\Users\448797\Documents\visual studio 2013\Projects\AandB\AandB\obj\Debug\AandB.csprojResolveAssemblyReference.cache
+C:\Users\448797\Documents\visual studio 2013\Projects\AandB\AandB\obj\Debug\AandB.exe
+C:\Users\448797\Documents\visual studio 2013\Projects\AandB\AandB\obj\Debug\AandB.pdb
